@@ -11,3 +11,4 @@ iOS app will give users posibility to buy subscription based on bandwidth usage.
 
 iOS app will require user to make his own NZB search engine and connect it to the app to get the search working.
 
+# Estimated start of this project: feburary 2017
