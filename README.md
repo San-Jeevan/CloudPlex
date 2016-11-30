@@ -1,6 +1,7 @@
 # CloudPlex
 A virtual plex box in the cloud, connected to usenet. iOS apps to search after NZBs and download to cloud.
 
+ERR: change usenet to .torrent
 
 # Initial idea
 Use AWS or AZURE to host personal storage.
